@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c91f83c8335846caccf8bb9ab7faf66",
+    "revision": "735bdfc9590583444aadb559c31ab7aa",
     "url": "/3xfromdarkking/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/3xfromdarkking/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "e5f4f3216eff9cc2c97d",
+    "revision": "c0c0a4181ddde1c2ebac",
     "url": "/3xfromdarkking/static/css/main.871fe7a0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/3xfromdarkking/static/js/2.ced223d5.chunk.js"
   },
   {
-    "revision": "e5f4f3216eff9cc2c97d",
-    "url": "/3xfromdarkking/static/js/main.2daf3380.chunk.js"
+    "revision": "c0c0a4181ddde1c2ebac",
+    "url": "/3xfromdarkking/static/js/main.22ecc106.chunk.js"
   },
   {
     "revision": "5758b6908eaee8e2e1c7",
