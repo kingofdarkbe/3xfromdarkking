@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/3xfromdarkking/static/css/main.871fe7a0.chunk.css",
-    "main.js": "/3xfromdarkking/static/js/main.887dac03.chunk.js",
-    "main.js.map": "/3xfromdarkking/static/js/main.887dac03.chunk.js.map",
+    "main.js": "/3xfromdarkking/static/js/main.d0802221.chunk.js",
+    "main.js.map": "/3xfromdarkking/static/js/main.d0802221.chunk.js.map",
     "runtime~main.js": "/3xfromdarkking/static/js/runtime~main.2fe4cb78.js",
     "runtime~main.js.map": "/3xfromdarkking/static/js/runtime~main.2fe4cb78.js.map",
     "static/css/2.31dafeb2.chunk.css": "/3xfromdarkking/static/css/2.31dafeb2.chunk.css",
     "static/js/2.ced223d5.chunk.js": "/3xfromdarkking/static/js/2.ced223d5.chunk.js",
     "static/js/2.ced223d5.chunk.js.map": "/3xfromdarkking/static/js/2.ced223d5.chunk.js.map",
     "index.html": "/3xfromdarkking/index.html",
-    "precache-manifest.082cc9b864d8cb44cf520f4d195fea7f.js": "/3xfromdarkking/precache-manifest.082cc9b864d8cb44cf520f4d195fea7f.js",
+    "precache-manifest.69b10d615e6ecb943a8063497bd34390.js": "/3xfromdarkking/precache-manifest.69b10d615e6ecb943a8063497bd34390.js",
     "service-worker.js": "/3xfromdarkking/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/3xfromdarkking/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.871fe7a0.chunk.css.map": "/3xfromdarkking/static/css/main.871fe7a0.chunk.css.map"
+    "static/css/main.871fe7a0.chunk.css.map": "/3xfromdarkking/static/css/main.871fe7a0.chunk.css.map",
+    "static/media/turtle.png": "/3xfromdarkking/static/media/turtle.94cd524b.png"
   }
 }
